@@ -1,0 +1,15 @@
+current directory: /Users/yuri/koil_ruby/cabinet/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+/Users/yuri/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20171130-1938-16tjepn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yuri/koil_ruby/cabinet/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/yuri/koil_ruby/cabinet/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/yuri/koil_ruby/cabinet/vendor/bundle/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20171130-1938-5xhnhb/bindex
